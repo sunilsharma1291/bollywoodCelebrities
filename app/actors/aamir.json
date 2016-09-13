@@ -1,0 +1,13 @@
+{
+    "description": "Aamir Khan is an Indian film actor, director and producer. Through his career in Hindi films, Khan has established himself as one of the most popular and influential actors of Indian cinema", 
+    "id": "aamir", 
+    "images": [
+        "img/actors/aamir1.jpg", 
+        "img/actors/aamir2.jpg", 
+        "img/actors/aamir3.jpg", 
+        "img/actors/aamir4.jpg", 
+        "img/actors/aamir5.jpg", 
+        "img/actors/aamir6.jpg"
+    ], 
+    "name": "Aamir Khan"
+}

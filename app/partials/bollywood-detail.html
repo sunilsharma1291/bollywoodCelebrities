@@ -1,0 +1,43 @@
+<div class="row">
+	<div class="actor-images col-sm-6">
+	  <img ng-src="{{img}}"
+	       class="actor"
+	       ng-repeat="img in actor.images"
+	       ng-class="{active: mainImageUrl==img}">
+	</div>
+
+	<div class="information-panel col-sm-6">	
+		<h1>{{actor.name}}</h1>
+		<p>{{actor.description}}</p>
+		<p>	quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,</p>
+		<table class="mt30px table table-collapse">
+			<tr>
+				<th>Specs</th>
+				<th>Value</th>
+			</tr>
+			<tr>
+				<td>Born</td>
+				<td>December 27, 1965 (age 50), Indore</td>
+			</tr>
+			<tr>
+				<td>Height</td>
+				<td>1.7 m</td>
+			</tr>
+			<tr>
+				<td>Upcoming movie:</td>
+				<td>Dabangg 3</td>
+			</tr>
+		</table>
+		
+	</div>
+</div>
+
+<div class="row thumbs-hub">
+	<h2>Click on below thumbnail to change the image</h2>
+	<ul class="actor-thumbs">
+	  <li ng-repeat="img in actor.images">
+	    <img ng-src="{{img}}" ng-click="setImage(img)">
+	  </li>
+	</ul>	
+</div>
+

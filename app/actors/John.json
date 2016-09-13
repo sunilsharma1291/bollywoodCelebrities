@@ -1,0 +1,12 @@
+{
+    "description": "John Abraham, is an Indian film actor, producer and a former model who appears in Hindi films. After modelling for numerous advertisements and companies, Abraham made his film debut with Jism, which earned him a Filmfare Best Debut Award nomination.", 
+    "id": "John", 
+    "images": [
+        "img/actors/John1.jpg", 
+        "img/actors/John2.jpg", 
+        "img/actors/John3.jpg", 
+        "img/actors/John4.jpg", 
+        "img/actors/John5.jpg"
+    ], 
+    "name": "John Abraham"
+}

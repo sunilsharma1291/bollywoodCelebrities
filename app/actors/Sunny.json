@@ -1,0 +1,10 @@
+{
+    "description": "Sunny Deol is an Indian film actor, director and producer known for his works exclusively in Hindi cinema. He is the son of veteran actor Dharmendra, and the elder brother of actor Bobby Deol.", 
+    "id": "Sunny", 
+    "images": [
+        "img/actors/Sunny1.jpg", 
+        "img/actors/Sunny2.jpg", 
+        "img/actors/Sunny3.jpg"
+    ], 
+    "name": "Sunny Deol"
+}

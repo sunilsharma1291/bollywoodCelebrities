@@ -1,0 +1,155 @@
+[
+    {
+        "age": 0, 
+        "id": "Ajay", 
+        "imageUrl": "img/actors/Ajay1.jpg", 
+        "name": "Ajay Devgan", 
+        "snippet": "he is a"
+    }, 
+    {
+        "age": 1, 
+        "id": "Irfan", 
+        "imageUrl": "img/actors/Irfan1.jpg", 
+        "name": "Irfan Khan", 
+        "snippet": "top actor"
+    }, 
+    {
+        "age": 2, 
+        "carrier": "Mika", 
+        "id": "Mika", 
+        "imageUrl": "img/actors/Mika1.jpg", 
+        "name": "Mika Singh", 
+        "snippet": "He is a singer"
+    }, 
+    {
+        "age": 3, 
+        "id": "srk", 
+        "imageUrl": "img/actors/srk1.jpg", 
+        "name": "Sharukh Khan", 
+        "snippet": "He is famous actor"
+    }, 
+    {
+        "age": 4, 
+        "carrier": "Arjun", 
+        "id": "Arjun", 
+        "imageUrl": "img/actors/Arjun0.jpg", 
+        "name": "Arjun Kapoor", 
+        "snippet": "New Actor"
+    }, 
+    {
+        "age": 5, 
+        "carrier": "aamir", 
+        "id": "aamir", 
+        "imageUrl": "img/actors/aamir1.jpg", 
+        "name": "Aamir Khan", 
+        "snippet": "Mr Perfectionalist"
+    }, 
+    {
+        "age": 6, 
+        "carrier": "ak", 
+        "id": "ak", 
+        "imageUrl": "img/actors/ak0.jpg", 
+        "name": "Akshay Khanna", 
+        "snippet": "Quality Actor"
+    }, 
+    {
+        "age": 7, 
+        "carrier": "shaan", 
+        "id": "shaan", 
+        "imageUrl": "img/actors/shaan0.jpg", 
+        "name": "Shaan", 
+        "snippet": "My Favourite Singer"
+    }, 
+    {
+        "age": 8, 
+        "id": "salman", 
+        "imageUrl": "img/actors/salman1.jpg", 
+        "name": "Salman Khan", 
+        "snippet": "Real Top Actor"
+    }, 
+    {
+        "age": 9, 
+        "carrier": "Cellular South", 
+        "id": "ranveer", 
+        "imageUrl": "img/actors/ranveer1.jpg", 
+        "name": "Ranveer Singh", 
+        "snippet": "How we can be an actor"
+    }, 
+    {
+        "age": 10, 
+        "carrier": "Verizon", 
+        "id": "kishore", 
+        "imageUrl": "img/actors/kishore1.jpg", 
+        "name": "Kishore`", 
+        "snippet": "He is the real one man army"
+    }, 
+    {
+        "age": 11, 
+        "carrier": "Verizon", 
+        "id": "kishorekumar", 
+        "imageUrl": "img/actors/kishore2.jpg", 
+        "name": "Kishore", 
+        "snippet": "He is the real one man army"
+    }, 
+    {
+        "age": 12, 
+        "carrier": "AT&T", 
+        "id": "akshay", 
+        "imageUrl": "img/actors/akshay1.jpg", 
+        "name": "Akshay Kumar", 
+        "snippet": "Mr perfect"
+    }, 
+    {
+        "age": 13, 
+        "carrier": "T-Mobile", 
+        "id": "Abhishek", 
+        "imageUrl": "img/actors/Abhishek1.jpg", 
+        "name": "Abhishek Bachann", 
+        "snippet": "son of amit ji"
+    }, 
+    {
+        "age": 14, 
+        "carrier": "T-Mobile", 
+        "id": "saif", 
+        "imageUrl": "img/actors/saif1.jpg", 
+        "name": "Shaif Ali Khan", 
+        "snippet": "Husband of kareena"
+    }, 
+    {
+        "age": 15, 
+        "carrier": "US Cellular", 
+        "id": "anil", 
+        "imageUrl": "img/actors/anil1.jpg", 
+        "name": "Anil kapoor", 
+        "snippet": "Class hero"
+    }, 
+    {
+        "age": 16, 
+        "carrier": "Sprint", 
+        "id": "sunny", 
+        "imageUrl": "img/actors/sunny1.jpg", 
+        "name": "Sunny Deol", 
+        "snippet": "Golden Heroics"
+    }, 
+    {
+        "age": 17, 
+        "id": "john", 
+        "imageUrl": "img/actors/john1.jpg", 
+        "name": "John Abraham", 
+        "snippet": "The serious Action Hero"
+    }, 
+    {
+        "age": 18, 
+        "id": "virat", 
+        "imageUrl": "img/actors/virat2.jpg", 
+        "name": "Virat Kohli", 
+        "snippet": "Great Cricketor"
+    }, 
+    {
+        "age": 19, 
+        "id": "amitabh", 
+        "imageUrl": "img/actors/amitabh1.jpg", 
+        "name": "Amitabh bachan", 
+        "snippet": "Great bollywood actor"
+    }
+]

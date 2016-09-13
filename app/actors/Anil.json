@@ -1,0 +1,11 @@
+{
+    "description": "Anil Kapoor is an Indian actor and producer who has appeared in many Bollywood films, as well as international films and television series. His career has spanned almost 40 years as an actor, and as a producer since 2005.", 
+    "id": "Anil", 
+    "images": [
+        "img/actors/Anil1.jpg", 
+        "img/actors/Anil2.jpg", 
+        "img/actors/Anil3.jpg", 
+        "img/actors/Anil4.jpg"
+    ], 
+    "name": "Anil Kapoor"
+}

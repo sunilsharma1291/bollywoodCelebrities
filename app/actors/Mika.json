@@ -1,0 +1,11 @@
+{
+    "description": "Mika is a singer", 
+    "id": "Mika", 
+    "images": [
+        "img/actors/Mika1.jpg", 
+        "img/actors/Mika2.jpg", 
+        "img/actors/Mika3.jpg", 
+        "img/actors/Mika4.jpg"
+    ], 
+    "name": "Mika Singh"
+}

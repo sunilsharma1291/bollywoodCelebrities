@@ -1,0 +1,29 @@
+<div class="container-fluid">
+  
+  <div class="row top-part">
+      <div class="col-md-12">
+          <input id="search_box" class="pull-right" placeholder="Search" ng-model="query">              
+          <select id="sort_by" class="pull-right" ng-model="orderProp">
+            <option value="name">Alphabetical</option>
+            <option value="age">Newest</option>
+          </select>
+      </div>
+  </div>
+
+  <div class="row mt30px">
+    <div class="col-md-12">
+      <!--Body content-->
+      <h1>Click to see the details</h1>
+      <ul class="actors">
+        <li ng-repeat="actor in actors | filter:query | orderBy:orderProp"
+            class="actor-listing">
+          <a href="#/actors/{{actor.id}}" class="thumb"><img ng-src="{{actor.imageUrl}}" alt="{{actor.name}}"></a>
+          <a href="#/actors/{{actor.id}}">{{actor.name}}</a>
+          <p>{{actor.snippet}}</p>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+
+</div>

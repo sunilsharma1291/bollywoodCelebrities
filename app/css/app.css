@@ -1,0 +1,33 @@
+/* app css stylesheet */
+
+body {
+  font-size: 13px;
+}
+h1 {border-bottom:none;}
+
+/* list-view
+--------------------------- */
+.top-part {padding:10px 0; background: #049af2;}
+select, input{height:30px; margin-left:10px;border:none; background:#fff; padding:2px 10px; line-height:20px color:#333; width:200px;}
+.actors {list-style:none; padding:0;}
+.actors li {display: inline-block; width:126px; vertical-align:top; padding:10px; border:1px solid #ccc; background:#fff; margin:10px; min-height:207px; border-bottom:10px solid #ccc;}
+.actors li a {display:block; text-align:center; margin-top:5px;} 
+.actors li a img {display:block; margin:0 auto; width:100px; height:100px; border-radius:100%;}
+.actors li p {margin-top:5px; text-align:center;}
+
+
+/** Detail View **/
+.actor-images {float:left; width:400px; height:400px; overflow: hidden;}
+.actor {float: left; border-radius:50%; margin-right: 3em; margin-bottom: 2em; background-color: white; padding: 2em; height: 400px; width: 400px; display: none; }
+.actor:first-child {display: block; }
+.actor-thumbs {margin: 0; list-style: none; }
+.information-panel {float:left;}
+.actor-thumbs {padding:0; margin-left:-5px;}
+.actor-thumbs li {border: 1px solid #ccc; display: inline-block; margin: 1em; background-color: white; }
+.actor-thumbs img {height: 100px; width: 100px; padding: 1em; }
+.actor-thumbs img:hover {cursor: pointer; }
+.specs {clear: both; margin: 0; padding: 0; list-style: none; }
+.specs > li{display: inline-block; width: 200px; vertical-align: top; }
+
+.mt30px {margin-top:30px;}
+.thumbs-hub {margin-left:15px;}
